@@ -89,12 +89,12 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 12/07(Thu) - Project Presentations.
 * 12/12(Tue), 12/14(Thu) - __NO LECTURES. Week for Final Exams.__
 
-## 6. Lecture Notes
+## 6. Lecture Notes from Fall 2021
 
-The lectures will be based on the following hand-written notes, which summarise the contents of the main textbook. Reading these notes and solving exercisers in the notes is a recommended way to study the topics covered by the course.
+The lectures will be based on the following hand-written notes from the version of this course in the fall of 2021. The notes summarise the contents of the main textbook. Reading these notes and solving exercisers in the notes is a recommended way to study the topics covered by the course. 
 
 
-* Introduction (Ch1) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture1/CLT21-L1-Introduction.pdf)).
+* Introduction (Ch1) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture1/CLT21-L1-Introduction.pdf)). Please ignore Sections 2 and 3 in the note, which are outdated.
 * The PAC Learning Framework (Ch2) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture2/CLT21-L2-PAC.pdf)).
 * Rademacher Complexity and VC Dimension (Ch3) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture3/CLT21-L3-Rademacher.pdf)).
 * Model Selection (Ch4) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture4/CLT21-L4-ModelSelection.pdf)).
