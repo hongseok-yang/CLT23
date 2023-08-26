@@ -59,7 +59,7 @@ A group project is an important part of this course, which accounts for the 40% 
 1. Form a group.
   * Deadline - 11:59PM on 19 September 2023 (Tuesday).
   * Form a group with 2-4 students.
-  * Inform the lecture and the TAs about the group by email.
+  * Inform the lecturer and the TAs about the group by email.
 2. Select a topic and write a proposal (5 marks out of 40 marks).
   * Deadline - 11:59PM on 12 October 2023 (Thursday).
   * Pick a paper or papers on the theories of machine learning that will be studied by your group.
@@ -76,7 +76,7 @@ A group project is an important part of this course, which accounts for the 40% 
   * Prepare the slides for a 35-minute talk on the studied topic, and submit them in KLMS.
   * The slides should be in the pdf format.
 5. Present your study if your group project is chosen (5 marks out of 40 marks).
-  * Four projects will be based on the votes by the students, TAs, and the lecture.
+  * Four projects will be based on the votes by the students, TAs, and the lecturer.
   * Two projects will be presented on 5 December 2023 (Tuesday), and the other two will be presented on 7 December 2023 (Thursday).
 6. Warning on plagiarism.
   * Students should not copy texts from other sources in their reports. If students have to use such texts, they have to rephrase the texts in their own words and state the source of the texts explicitly. Ideally, students' write-ups should mostly consist of the students' own phrases and expressions, and use such borrowed and rephrased sentences only when doing so is absolutely needed. Copying texts from other sources is an instance of plagiarism, and if it happens to an academic, it can destroy his or her research career. If any of the reports of a group is found to plagiarise, everyone in the group will get F.
