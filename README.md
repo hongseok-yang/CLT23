@@ -38,7 +38,7 @@ We also handle the case of plagiarism strictly. Plagiarism means that students c
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Monday, office: 3402 in E3-1.)
 * TA: Jaehui Hwang
-* TA: Taeyoung Kim
+* TA: Taeyoung Kim (email: taeyoungkim21@kaist.ac.kr, office hour: 3:00pm - 4:00pm on Thursday or e-mail appointment, office: 3419 in E3-1.)
 
 #### Time and Place
 
@@ -61,7 +61,7 @@ A group project is an important part of this course, which accounts for the 40% 
 1. Form a group.
   * Deadline - 11:59PM on 19 September 2023 (Tuesday).
   * Form a group with 2-4 students.
-  * Inform the lecture and the TAs about the group by email.
+  * Inform the lecturer and the TAs about the group by email.
 2. Select a topic and write a proposal (5 marks out of 40 marks).
   * Deadline - 11:59PM on 12 October 2023 (Thursday).
   * Pick a paper or papers on the theories of machine learning that will be studied by your group.
@@ -78,7 +78,7 @@ A group project is an important part of this course, which accounts for the 40% 
   * Prepare the slides for a 35-minute talk on the studied topic, and submit them in KLMS.
   * The slides should be in the pdf format.
 5. Present your study if your group project is chosen (5 marks out of 40 marks).
-  * Four projects will be based on the votes by the students, TAs, and the lecture.
+  * Four projects will be based on the votes by the students, TAs, and the lecturer.
   * Two projects will be presented on 5 December 2023 (Tuesday), and the other two will be presented on 7 December 2023 (Thursday).
 6. Warning on plagiarism.
   * Students should not copy texts from other sources in their reports. If students have to use such texts, they have to rephrase the texts in their own words and state the source of the texts explicitly. Ideally, students' write-ups should mostly consist of the students' own phrases and expressions, and use such borrowed and rephrased sentences only when doing so is absolutely needed. Copying texts from other sources is an instance of plagiarism, and if it happens to an academic, it can destroy his or her research career. If any of the reports of a group is found to plagiarise, everyone in the group will get F.
@@ -127,13 +127,13 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 The lectures will be based on the following hand-written notes from the version of this course in the fall of 2021. The notes summarise the contents of the main textbook. Reading these notes and solving exercisers in the notes is a recommended way to study the topics covered by the course. 
 
-* Introduction (Ch1) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture1/CLT21-L1-Introduction.pdf)). Please ignore Sections 2 and 3 in the note, which are outdated.
-* The PAC Learning Framework (Ch2) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture2/CLT21-L2-PAC.pdf)).
-* Rademacher Complexity and VC Dimension (Ch3) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture3/CLT21-L3-Rademacher.pdf)).
-* Model Selection (Ch4) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture4/CLT21-L4-ModelSelection.pdf)).
-* Support Vector Machine (Ch5) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture5/CLT21-L5-SVM.pdf)).
-* Kernel Methods (Ch6) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture6/CLT21-L6-Kernel.pdf)).
-* Regression (Ch11) ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture7/CLT21-L7-Regression.pdf)).
+* Introduction (Ch1) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture1/CLT21-L1-Introduction.pdf)). Please ignore Sections 2 and 3 in the note, which are outdated.
+* The PAC Learning Framework (Ch2) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture2/CLT21-L2-PAC.pdf)).
+* Rademacher Complexity and VC Dimension (Ch3) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture3/CLT21-L3-Rademacher.pdf)).
+* Model Selection (Ch4) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture4/CLT21-L4-ModelSelection.pdf)).
+* Support Vector Machine (Ch5) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture5/CLT21-L5-SVM.pdf)).
+* Kernel Methods (Ch6) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture6/CLT21-L6-Kernel.pdf)).
+* Regression (Ch11) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture7/CLT21-L7-Regression.pdf)).
 
 ## 8. Study Materials
 
