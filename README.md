@@ -10,6 +10,8 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 1. Important Announcements
 
+#### [27 August] Use of a LLM and Q&A.
+
 #### [22 August] Policy for handling late submissions.
 
 We will adopt the following scheme for handling late submissions for all assignments, including homework assignments. The scheme assumes that the total marks are 100.
