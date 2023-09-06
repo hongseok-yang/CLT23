@@ -135,7 +135,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 The lectures will be based on the following hand-written notes from the version of this course in the fall of 2021. The notes summarise the contents of the main textbook. Reading these notes and solving exercisers in the notes is a recommended way to study the topics covered by the course. 
 
 * Introduction (Ch1) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture1/CLT21-L1-Introduction.pdf)). Please ignore Sections 2 and 3 in the note, which are outdated.
-* The PAC Learning Framework (Ch2) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture2/CLT21-L2-PAC.pdf)).
+* The PAC Learning Framework (Ch2) ([note1](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture2/CLT21-L2-PAC.pdf), [note2](https://github.com/hongseok-yang/CLT23/blob/main/Lectures/Lecture2/CLT21-L2-PAC-appendix.pdf)).
 * Rademacher Complexity and VC Dimension (Ch3) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture3/CLT21-L3-Rademacher.pdf)).
 * Model Selection (Ch4) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture4/CLT21-L4-ModelSelection.pdf)).
 * Support Vector Machine (Ch5) ([note](https://github.com/hongseok-yang/CLT21/blob/main/Lectures/Lecture5/CLT21-L5-SVM.pdf)).
