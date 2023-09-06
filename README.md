@@ -44,7 +44,7 @@ We also handle the case of plagiarism strictly. Plagiarism means that students c
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Monday, office: 3402 in E3-1.)
-* TA: Jaehui Hwang
+* TA: Jaehui Hwang (email : hwcmi62@kaist.ac.kr, office hour: 3:00pm-4:00pm on Monday or e-mail appointment, office: 3419 in E3-1.)
 * TA: Taeyoung Kim (email: taeyoungkim21@kaist.ac.kr, office hour: 3:00pm - 4:00pm on Thursday or e-mail appointment, office: 3419 in E3-1.)
 
 #### Time and Place
