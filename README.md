@@ -10,6 +10,12 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 1. Important Announcements
 
+#### [17 September] [Homework1](https://github.com/hongseok-yang/CLT23/blob/master/Homework/homework1.pdf) is out.
+
+The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 11 October 2023 (Wednesday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [27 August] Q&A and use of a LLM.
 
 We strongly recommend students to ask questions in KLMS, instead of in github, if they have any. This would help fellow students to access those questions and corresponding answers more easily. It would also help TAs and the lecture not to miss those questions.
@@ -94,6 +100,8 @@ A group project is an important part of this course, which accounts for the 40% 
 ## 5. Homework
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
+
+* [Homework1](https://github.com/hongseok-yang/CLT23/blob/master/Homework/homework1.pdf) - Deadline: 6:00pm on 11 October 2023 (Wednesday).
 
 ## 6. Tentative Plan
 
