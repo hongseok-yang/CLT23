@@ -126,21 +126,21 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 09/26(Tue) - Model Selection (Ch4).
 * 09/28(Thu) - __NO LECTURE. Chuseok.__
 * 10/03(Tue) - __NO LECTURE. National Foundation Day.__
-* 10/05(Thu) - Support Vector Machine (Ch5).
-* 10/10(Tue) - Support Vector Machine (Ch5).
+* 10/05(Thu) - Model Selection (Ch4).
+* 10/10(Tue) - Model Selection (Ch4).
 * 10/12(Thu) - Support Vector Machine (Ch5).
 * 10/17(Tue), 10/19(Thu) - __NO LECTURES. Week for Mid-term Exams.__
 * 10/24(Tue) - Support Vector Machine (Ch5).
-* 10/26(Thu) - Kernel Methods (Ch6).
-* 10/31(Tue) - Kernel Methods (Ch6).
-* 11/02(Thu) - Kernel Methods (Ch6).
-* 11/07(Tue) - Kernel Methods (Ch6).
-* 11/09(Thu) - Regression (Ch11).
-* 11/14(Tue) - Regression (Ch11).
-* 11/16(Thu) - Regression (Ch11).
-* 11/21(Tue) - Regression (Ch11).
-* 11/23(Thu) - Special Topic.  
-* 11/28(Tue) - Special Topic.
+* 10/26(Thu) - Support Vector Machine (Ch5).
+* 10/31(Tue) - Support Vector Machine (Ch5).
+* 11/02(Thu) - Support Vector Machine (Ch5).
+* 11/07(Tue) - Support Vector Machine (Ch5).
+* 11/09(Thu) - Kernel Methods (Ch6).
+* 11/14(Tue) - Kernel Methods (Ch6).
+* 11/16(Thu) - Kernel Methods (Ch6).
+* 11/21(Tue) - Kernel Methods (Ch6).
+* 11/23(Thu) - Regression (Ch11).
+* 11/28(Tue) - Regression (Ch11).
 * 11/30(Thu) - __FINAL EXAM.__
 * 12/05(Tue) - Project Presentations.
 * 12/07(Thu) - Project Presentations.
