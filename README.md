@@ -10,14 +10,14 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 1. Important Announcements
 
-#### [5 November] [Homework2](https://github.com/hongseok-yang/CLT23/blob/master/Homework/homework2.pdf) is out.
+#### [5 November] [Homework2](https://github.com/hongseok-yang/CLT23/blob/main/Homework/homework2.pdf) is out.
 
 The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 20 November 2023 (Monday).
 
 We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
 
-#### [17 September] [Homework1](https://github.com/hongseok-yang/CLT23/blob/master/Homework/homework1.pdf) is out.
+#### [17 September] [Homework1](https://github.com/hongseok-yang/CLT23/blob/main/Homework/homework1.pdf) is out.
 
 The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 11 October 2023 (Wednesday).
 
@@ -108,8 +108,8 @@ A group project is an important part of this course, which accounts for the 40% 
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
-* [Homework2](https://github.com/hongseok-yang/CLT23/blob/master/Homework/homework2.pdf) - Deadline: 6:00pm on 20 November 2023 (Monday).
-* [Homework1](https://github.com/hongseok-yang/CLT23/blob/master/Homework/homework1.pdf) - Deadline: 6:00pm on 11 October 2023 (Wednesday).
+* [Homework2](https://github.com/hongseok-yang/CLT23/blob/main/Homework/homework2.pdf) - Deadline: 6:00pm on 20 November 2023 (Monday).
+* [Homework1](https://github.com/hongseok-yang/CLT23/blob/main/Homework/homework1.pdf) - Deadline: 6:00pm on 11 October 2023 (Wednesday).
 
 ## 6. Tentative Plan
 
