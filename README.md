@@ -10,7 +10,7 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 1. Important Announcements
 
-#### [5 November] [Homework2](https://github.com/hongseok-yang/CLT23/blob/main/Homework/homework2.pdf) is out.
+#### [05 November] [Homework2](https://github.com/hongseok-yang/CLT23/blob/main/Homework/homework2.pdf) is out.
 
 The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 20 November 2023 (Monday).
 
